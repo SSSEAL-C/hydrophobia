@@ -1,3 +1,0 @@
-tellraw @s [{"text": "Hydrophobia", "color":"#2e1fb8", "bold":true},{"text": " by ", "color":"#d3cfff","bold":false},{"text": "realsovietseal ", "color":"#bf0cc9", "bold":true},{"text": "is active (v1.0)", "color":"#d3cfff","bold":false}]
-tellraw @s [{"text":"https://hydrophobia.ssseal-c.xyz/","color":"#e0266d","underline":true,"clickEvent":{"action":"open_url","value":"https://hydrophobia.ssseal-c.xyz/"}}]
-scoreboard players set @s PlayerLeave 0
