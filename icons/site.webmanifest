@@ -1,10 +1,10 @@
 {
-    "name": "Snail Chase",
-    "short_name": "Snail Chase",
+    "name": "Hydrophobia",
+    "short_name": "Hydrophobia",
     "icons": [
         {
-            "src": "/android-chrome-72x72.png",
-            "sizes": "72x72",
+            "src": "android-chrome-96x96.png",
+            "sizes": "96x96",
             "type": "image/png"
         }
     ],
