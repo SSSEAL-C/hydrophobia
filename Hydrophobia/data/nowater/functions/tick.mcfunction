@@ -1,6 +1,6 @@
 # Insert your tick commands here! (These commands run 20 times per second.) 
 
-title @a actionbar [{"text": "Hydrophobia v1.0.1", "color":"#2e1fb8", "bold":true},{"text": " by ", "color":"#000000","bold":false},{"text": "realsovietseal ", "color":"#bf0cc9", "bold":true}]
+title @a actionbar [{"text": "Hydrophobia v1.0.2", "color":"#2e1fb8", "bold":true},{"text": " by ", "color":"#000000","bold":false},{"text": "realsovietseal ", "color":"#bf0cc9", "bold":true}]
 
 #player gamemodes
 scoreboard players set @a PlayerGamemode 0
